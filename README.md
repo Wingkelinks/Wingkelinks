@@ -15,9 +15,9 @@ My business website :point_right:  [The Painted Pixel](https://the-painted-pixel
 
 ### Contact Me
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://external.ink?to=www.linkedin.com/in/whitwebdev/)
-[<img src='https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white'>](https://www.upwork.com/freelancers/~01435a2b26dffa2c77){:target="_blank" rel="noopener"}
-[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">](https://discordapp.com/users/Whit#7282){:target="_blank" rel="noopener"}
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://linkedin.com/in/whitwebdev/)
+[<img src='https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white'>](https://www.upwork.com/freelancers/~01435a2b26dffa2c77)
+[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">](https://discordapp.com/users/Whit#7282)
 
 - - -
 
@@ -32,7 +32,7 @@ My business website :point_right:  [The Painted Pixel](https://the-painted-pixel
 #### 🎨 Graphic & Web Design
 
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
-[<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/@Whit_01){:target="_blank" rel="noopener"}
+[<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/@Whit_01)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
