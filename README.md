@@ -9,7 +9,7 @@ Hi there I'm Whitney, a Junior Web Developer 👋🏻
 
 I am a Code Institute graduate in Full-Stack Software Development, and I have a Master of Arts from Rhodes University. I am proficient in Frontend and Backend Development, with core tech skills including, but not limited to, HTML, CSS, JavaScript, and Python. My working style is defined by a logical, responsive approach merged with intuitive design and a keen eye for detail.
 
-My business website :point_right:  [The Painted Pixel](https://the-painted-pixel.com/) is a custom built WordPress site. Recently, I completed my first freelance commission; designing and building a custom WordPress eCommerce site for a local business - [Carked It!](https://www.carkedit.com/) Click to take a look! :eyes: 
+My business website :point_right:  [The Painted Pixel](https://the-painted-pixel.com/) is a custom built WordPress site. Recently, I completed my first freelance commission; designing and building a custom WordPress eCommerce site for a local business - [Carked It!](https://www.carkedit.com/) Take a look! :eyes: 
 
 - - -
 
