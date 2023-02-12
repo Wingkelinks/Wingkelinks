@@ -25,8 +25,9 @@ My business website :point_right:  [The Painted Pixel](https://the-painted-pixel
 
 #### :technologist: Currently Learning
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=#458CF5&logoColor=white)
+
 
 
 #### 🎨 Graphic & Web Design
@@ -56,6 +57,8 @@ My business website :point_right:  [The Painted Pixel](https://the-painted-pixel
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+![Tachyons](https://img.shields.io/badge/Tachyons-%23339AF0?style=for-the-badge&logo=#DA1F26&logoColor=white)
 
 
 #### :file_cabinet: Databases
