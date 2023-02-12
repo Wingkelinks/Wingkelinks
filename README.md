@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](Painted Pixel Banner 1.png)
+![](https://github.com/Wingkelinks/Wingkelinks/blob/ea9919737d5d5a9af97e10896e01d0897ec999b9/Painted%20Pixel%20Banner%201.png)
 
 <!--
 **Wingkelinks/Wingkelinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
