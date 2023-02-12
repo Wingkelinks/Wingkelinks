@@ -26,15 +26,15 @@ My business website :point_right:  [The Painted Pixel](https://the-painted-pixel
 #### :technologist: Currently Learning
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=#458CF5&logoColor=white)
-
+![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=Google%20Search%20Console&logoColor=white)
 
 
 #### 🎨 Graphic & Web Design
 
-![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
-[<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/@Whit_01)
+![Balsamiq](https://img.shields.io/badge/Balsamiq%20Wireframes-CC0000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+[<img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">](https://www.figma.com/@Whit_01)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/adobe%20express-DA1F26.svg?style=for-the-badge&logo=adobe%20creative%20cloud&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -51,14 +51,13 @@ My business website :point_right:  [The Painted Pixel](https://the-painted-pixel
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
+![Tachyons](https://img.shields.io/badge/Tachyons-%23339AF0?style=for-the-badge&logo=#DA1F26&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-![Tachyons](https://img.shields.io/badge/Tachyons-%23339AF0?style=for-the-badge&logo=#DA1F26&logoColor=white)
 
 
 #### :file_cabinet: Databases
@@ -78,7 +77,7 @@ My business website :point_right:  [The Painted Pixel](https://the-painted-pixel
 #### :card_index_dividers: Content Management Systems
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white)
 
 #### 💻 Version Control, IDE's & Other Coding Content 
 
