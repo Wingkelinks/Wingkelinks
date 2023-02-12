@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="/media/amiresponsive.png" width="800">
-
 ![](https://github.com/user/banner.png)
 
 <!--
