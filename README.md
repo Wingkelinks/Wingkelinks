@@ -1,4 +1,4 @@
-![](https://github.com/Wingkelinks/Wingkelinks/blob/ea9919737d5d5a9af97e10896e01d0897ec999b9/Painted%20Pixel%20Banner%201.png)
+![](clickmouselogo.png)
 
 # WHITNEY TURNER
 ## Full Stack Web Developer: [Click Mouse](https://clickmouse.com.au/) :mouse:
