@@ -1,16 +1,31 @@
 ![](https://github.com/Wingkelinks/Wingkelinks/blob/ea9919737d5d5a9af97e10896e01d0897ec999b9/Painted%20Pixel%20Banner%201.png)
 
 # WHITNEY TURNER
-## Junior Software Developer
+## Full Stack Web Developer: [Click Mouse](https://clickmouse.com.au/) :mouse:
 
 ### About Me
 
-Hi there I'm Whitney, a Junior Web Developer 👋🏻
+Hi there I'm Whitney 👋
 
-I am a Code Institute graduate in Full-Stack Software Development, and I have a Master of Arts from Rhodes University. I am proficient in Frontend and Backend Development, with core tech skills including, but not limited to, HTML, CSS, JavaScript, and Python. My working style is defined by a logical, responsive approach merged with intuitive design and a keen eye for detail.
+I specialise in: 
 
-My business website :point_right:  [The Painted Pixel](https://the-painted-pixel.com/) is a custom built WordPress site. Recently, I completed my first freelance commission; designing and building a custom WordPress eCommerce site for a local business - [Carked It!](https://www.carkedit.com/) Take a look! :eyes: 
+:white_check_mark: Web Design
+:white_check_mark: Web Development
+:white_check_mark: WordPress Customisation
+:white_check_mark: Ecommerce Solutions
+:white_check_mark: Visual Branding & Design
+:white_check_mark: Logo Design
+:white_check_mark: Small - Large Scale Sites
+:white_check_mark: HTML, CSS, Javascript & PHP
 
+:books: I am a Code Institute graduate in Full-Stack Software Development, with a Master of Arts from Rhodes University.
+:writing_hand: My working style is defined by a logical, responsive approach merged with intuitive design and a keen eye for detail.
+
+:point_right: My business website [Click Mouse](https://clickmouse.com.au/) 
+
+:eyes: Check out some of my recent work for clients from different sectors. 
+          eCommerce - [Carked It!](https://www.carkedit.com/)
+          Travel/Booking - [Swim Tours Australia](https://swimtoursaustralia.com.au/)
 - - -
 
 ### Contact Me
