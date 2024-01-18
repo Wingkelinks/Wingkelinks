@@ -9,17 +9,17 @@ Hi there I'm Whitney 👋
 
 I specialise in: 
 
-:white_check_mark: Web Design
-:white_check_mark: Web Development
-:white_check_mark: WordPress Customisation
-:white_check_mark: Ecommerce Solutions
-:white_check_mark: Visual Branding & Design
-:white_check_mark: Logo Design
-:white_check_mark: Small - Large Scale Sites
-:white_check_mark: HTML, CSS, Javascript & PHP
+:white_check_mark: Web Design\
+:white_check_mark: Web Development\
+:white_check_mark: WordPress Customisation\
+:white_check_mark: Ecommerce Solutions\
+:white_check_mark: Visual Branding & Design\
+:white_check_mark: Logo Design\
+:white_check_mark: Small - Large Scale Sites\
+:white_check_mark: HTML, CSS, Javascript & PHP\
 
-:books: I am a Code Institute graduate in Full-Stack Software Development, with a Master of Arts from Rhodes University.
-:writing_hand: My working style is defined by a logical, responsive approach merged with intuitive design and a keen eye for detail.
+:books: I am a Code Institute graduate in Full-Stack Software Development, with a Master of Arts from Rhodes University.\
+:writing_hand: My working style is defined by a logical, responsive approach merged with intuitive design and a keen eye for detail.\
 
 :point_right: My business website [Click Mouse](https://clickmouse.com.au/) 
 
