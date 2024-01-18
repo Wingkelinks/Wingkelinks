@@ -16,15 +16,15 @@ I specialise in:
 :white_check_mark: Visual Branding & Design\
 :white_check_mark: Logo Design\
 :white_check_mark: Small - Large Scale Sites\
-:white_check_mark: HTML, CSS, Javascript & PHP\
+:white_check_mark: HTML, CSS, Javascript & PHP
 
 :books: I am a Code Institute graduate in Full-Stack Software Development, with a Master of Arts from Rhodes University.\
-:writing_hand: My working style is defined by a logical, responsive approach merged with intuitive design and a keen eye for detail.\
+:writing_hand: My working style is defined by a logical, responsive approach merged with intuitive design and a keen eye for detail.
 
-:point_right: My business website [Click Mouse](https://clickmouse.com.au/) 
+:point_right: My business website [Click Mouse](https://clickmouse.com.au/)
 
-:eyes: Check out some of my recent work for clients from different sectors. 
-          eCommerce - [Carked It!](https://www.carkedit.com/)
+:eyes: Check out some of my recent work for clients from different sectors.\
+          eCommerce - [Carked It!](https://www.carkedit.com/)\
           Travel/Booking - [Swim Tours Australia](https://swimtoursaustralia.com.au/)
 - - -
 
